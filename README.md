@@ -36,3 +36,5 @@ Also found in the main menu initialization. You can explore the 2 endings here. 
 I added one new skill called "Art of Resistance" which buffs player endurance by 50%. I already implemented it 
 before reading that there was no need to add new skills or items. It already functions properly, hopefully it helps
 with your survivability.
+
+The code is kind of spaghetti coded. This is with the help of sleep deprivation and short memory retention. :/
